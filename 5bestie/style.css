@@ -1,0 +1,23 @@
+body {
+  background: linear-gradient(to right, #ffebcd, #faebd7);
+  font-family: "Franklin Gothic Medium", "Times New Roman", Arial, sans-serif;
+}
+
+.judul {
+  text-align: center;
+}
+
+td,
+th {
+  border: 2px solid brown;
+  text-align: center;
+  padding: 10px;
+}
+
+td:hover {
+  background-color: bisque;
+}
+
+th:hover {
+  background-color: bisque;
+}
